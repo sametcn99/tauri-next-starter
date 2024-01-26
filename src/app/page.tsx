@@ -1,3 +1,4 @@
+import { tauri } from "@tauri-apps/api";
 import Image from "next/image";
 
 export default function Home() {
